@@ -1,0 +1,20 @@
+# LGU Campus Network
+
+# Moodle
+10.20.250.58	elearning.cuhk.edu.cn
+# Group Study Room Booking System
+10.20.241.222	gsrb.cuhk.edu.cn
+# Meeting Room Booking System
+10.20.241.70	mrb.cuhk.edu.cn
+# College Network Portal
+10.20.241.142	srun.cuhk.edu.cn
+# EIE1810 Lab System
+10.20.241.140	eie1810.lab.cuhk.edu.cn
+# Campus DNS 1
+10.20.250.11	1.dns.cuhk.edu.cn
+# Campus DNS 2
+10.20.250.12	2.dns.cuhk.edu.cn
+# Eprinting System
+10.20.241.111	print.cuhk.edu.cn
+# Student Info System
+58.250.174.66	sis.cuhk.edu.cn

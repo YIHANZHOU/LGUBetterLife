@@ -1,0 +1,9 @@
+# LGU Campus Network
+# Please use this file with SwitchHost!
+# All you need to do is to add a remote host file with url:
+# https://raw.githubusercontent.com/tavimori/LGUBetterLife/master/SwichHosts/outLGU.hosts
+
+# Moodle
+116.31.95.5	elearning.cuhk.edu.cn
+# Student Info System
+58.250.174.66	sis.cuhk.edu.cn

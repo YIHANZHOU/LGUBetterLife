@@ -8,20 +8,17 @@
 # Campus DNS 2
 10.20.250.12	2.dns.cuhk.edu.cn
 # University Website
-10.20.250.51	www.cuhk.edu.cn
+# 10.20.250.51	www.cuhk.edu.cn
 # Moodle
-10.20.250.58	elearning.cuhk.edu.cn
+# 10.20.250.58	elearning.cuhk.edu.cn
 # Eprinting System
-10.20.241.111	print.cuhk.edu.cn
+# 10.20.241.111	print.cuhk.edu.cn
 # Meeting Room Booking System
 10.20.241.70	mrb.cuhk.edu.cn
 # Group Study Room Booking System
 10.20.241.222	gsrb.cuhk.edu.cn
 # EIE1810 Lab System
 10.20.241.140	eie1810.lab.cuhk.edu.cn
-# College Network Portal
-10.20.241.142	srun.cuhk.edu.cn
-10.20.241.143	srun2.cuhk.edu.cn
 # Student Info System
 58.250.174.66	sis.cuhk.edu.cn
 # ITSO Support Ticket System
